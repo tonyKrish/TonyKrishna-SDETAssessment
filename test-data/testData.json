@@ -1,0 +1,13 @@
+{
+    "validUsername":"test",
+    "validPassword":"test",
+    "invalidUsername":"invalid",
+    "invalidPassword":"invalid",
+    "specialCharString":"@#$$%^#$^%$#^&",
+    "lengthyString":"AbcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNO",
+
+
+    "LoginPageTiTle":"Basic_Test_Serve_Log_In",
+    "loginErrorMessage":"Please enter valid username and password!"
+
+}
