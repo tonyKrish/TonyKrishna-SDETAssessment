@@ -1,3 +1,6 @@
+//Login Error Page
+//All the locators and functions necessary to perform tests on Error page is available here
+
 import { Locator, Page } from "@playwright/test";
 
 export default class ErrorPage {
