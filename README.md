@@ -2,7 +2,7 @@
 This repo contains answer to questions including test framework
 
 ## Question 1,2,3
-Solutions for Questions 1,2,3 are available in the file 
+Solutions for Questions 1,2,3 are available in the file AnswersToQuestion1,2,3.pdf in the root directory.
 
 ## Question 4 - Test Framework
 ### About the framework
