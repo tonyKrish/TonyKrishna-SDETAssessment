@@ -5,9 +5,18 @@
     "invalidPassword":"invalid",
     "specialCharString":"@#$$%^#$^%$#^&",
     "lengthyString":"AbcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNO",
+    "ticketQuantity":"2",
+    "ticketEmail":"testticket@test.com",
+    "invalidEmail":"abcdfgthkl",
+    "contactName":"TestName",
+    "contactEmail":"testemail@testserver.com",
+    "contactMessage":"This is a message",
 
 
     "LoginPageTiTle":"Basic_Test_Serve_Log_In",
-    "loginErrorMessage":"Please enter valid username and password!"
+    "loginErrorMessage":"Please enter valid username and password!",
 
+    "HomePageURL":"http://localhost:3000/band#",
+    "TourPageURL":"http://localhost:3000/band#tour",
+    "ContactPageURL":"http://localhost:3000/band#contact"
 }
