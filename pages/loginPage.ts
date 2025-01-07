@@ -42,7 +42,7 @@ export default class LoginPage {
     }
 
     async clickOnLoginBtn() {
-            this.page.locator('input[type="submit"][value="Login"]').click()
+        await this.page.locator('input[type="submit"][value="Login"]').click()
     }
 
     async getError() {
